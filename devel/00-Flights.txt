@@ -1,0 +1,43 @@
+Springfield
+	1 : F-15C Nellis
+	2 : F-15C Nellis
+	3 : F-15C Nellis
+	4 : M-2000C Nellis
+	5 : Mig-21bis Nellis
+	6 : Hawk
+	
+Hawg
+	1 : A-10C Nellis
+	2 : A-10C Nellis
+
+Pontiac
+	1 : Su-25T Nellis
+	2 : Su-25A Nellis
+	3 : L-39C Nellis
+	4 : L-39ZA Nellis
+	5 : C-101EB Nellis
+
+Boar
+	1 : A-10A Nellis
+
+Colt
+	1 : Mig-15bis Nellis
+	2 : Mig-15bis Nellis
+	3 : P-51D
+	4 : P-51D
+	5 : Fw 190 D-9
+	6 : Bf 109 K-4
+	7 : TF-51D
+
+Ford
+	1 : MiG-29G
+	2 : Su-27
+	3 : Su-33
+	4 : MiG-29S
+
+Chevy
+	1 : UH-1H
+	2 : 
+	3 : Mi-8MTV2
+	4 : 
+	5 : Ka-50

@@ -1,0 +1,8 @@
+- respawning Tonopah units
+- delayed respawning for all respawns
+- blue ground units for CA
+- reserved slots for red coalition
+- move RUS to blue?
+
+- briefing:
+-- range descriptions
