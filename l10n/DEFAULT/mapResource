@@ -1,7 +1,7 @@
 mapResource = 
 {
     ["ResKey_Action_3359"] = "fac.lua",
-    ["ResKey_Action_3358"] = "ctld_local.lua",
+    ["ResKey_Action_1383"] = "beaconsilent.ogg",
     ["ResKey_Action_3357"] = "CTLD.lua",
     ["ResKey_Action_1380"] = "CTLD.lua",
     ["ResKey_Action_3546"] = "CTLD_laser_codes.lua",
@@ -12,9 +12,9 @@ mapResource =
     ["ResKey_Action_1352"] = "check_tanker_arco.lua",
     ["ResKey_Action_18"] = "mist_4_3_73.lua",
     ["ResKey_Action_1355"] = "check_red_drone.lua",
+    ["ResKey_Action_3358"] = "ctld_local.lua",
     ["ResKey_Action_1354"] = "check_tanker_texaco.lua",
-    ["ResKey_Action_1353"] = "check_tanker_shell.lua",
     ["ResKey_Action_1350"] = "route_93_outpost.lua",
     ["ResKey_Action_1356"] = "check_blue_awacs.lua",
-    ["ResKey_Action_1383"] = "beaconsilent.ogg",
+    ["ResKey_Action_1353"] = "check_tanker_shell.lua",
 } -- end of mapResource
