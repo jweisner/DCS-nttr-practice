@@ -13,7 +13,7 @@ options =
     ["VR"] = 
     {
         ["use_mouse"] = false,
-        ["enable"] = true,
+        ["enable"] = false,
         ["box_mouse_cursor"] = true,
         ["pixel_density"] = 1,
     }, -- end of ["VR"]
@@ -125,6 +125,7 @@ options =
         ["UH-1H"] = 
         {
             ["UHRudderTrimmer"] = false,
+            ["UHTrimmingMethod"] = 0,
             ["autoPilot"] = true,
             ["altUHTrimmingMethod"] = false,
             ["CPLocalList"] = "default",
@@ -244,7 +245,7 @@ options =
     ["miscellaneous"] = 
     {
         ["headmove"] = false,
-        ["TrackIR_external_views"] = true,
+        ["TrackIR_external_views"] = false,
         ["f5_nearest_ac"] = true,
         ["f11_free_camera"] = true,
         ["F2_view_effects"] = 0,

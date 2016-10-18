@@ -1,3 +1,4 @@
+--[[
 -- set patrols
 mist.ground.patrol('Medium Convoy #002', 'doubleBack')
 mist.ground.patrol('Alamo Convoy #001', 'doubleBack')
@@ -9,6 +10,7 @@ mist.ground.patrol('Alamo Convoy #006', 'doubleBack')
 mist.ground.patrol('Alamo Convoy #007', 'doubleBack')
 mist.ground.patrol('Caliente Alpha Convoy #001', 'doubleBack')
 mist.ground.patrol('Caliente Bravo Convoy #001', 'doubleBack')
+]]
 
 -- group dead flags
 --[[
@@ -47,6 +49,7 @@ mist.flagFunc.group_dead {
 	toggle = true,
 }
 
+--[[
 mist.flagFunc.group_dead {
 	groupName = 'Medium Convoy #001',
 	flag = 1011,
@@ -161,3 +164,4 @@ mist.flagFunc.group_dead {
 	flag = 2206,
 	toggle = true,
 }
+]]
